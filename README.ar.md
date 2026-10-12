@@ -77,7 +77,3 @@
 ## المساهمة
 
 انظر [CONTRIBUTING.md](CONTRIBUTING.md) لقواعد التقديم.
-
-## الرخصة
-
-هذه القائمة منشورة بموجب [LICENSE](LICENSE) (CC0 1.0 Universal).

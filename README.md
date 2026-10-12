@@ -77,7 +77,3 @@ A curated index of Arabic artificial intelligence tools, MCP servers, and workfl
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for submission rules.
-
-## License
-
-This list is released under [LICENSE](LICENSE) (CC0 1.0 Universal).
